@@ -19,7 +19,6 @@ When out fishing you can find some of the most interesting looking species, espe
 - python
 - Voilà
 ## Important
-- currently able to classify mahi mahi , sail fish , marlin
 - will not specify sub species of fish.
 
 ## Updates 
