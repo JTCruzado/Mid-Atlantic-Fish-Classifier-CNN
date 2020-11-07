@@ -10,6 +10,10 @@ When out fishing you can find some of the most interesting looking species, espe
 - Amberjack
 - Wahoo
 - Rainbow Trout
+- Large Mouth Bass
+- Striped Bass
+- Yellow Fin Tuna
+- Great Barracuda
 
 # Technologies
 - deep learning
@@ -24,7 +28,7 @@ When out fishing you can find some of the most interesting looking species, espe
 
 ## Updates 
 - I will be training the model on more fishes check in for updates.
-- 11/07/20 added : Amberjack , Wahoo, Rainbow Trout
+- 11/07/20 added : Amberjack , Wahoo, Rainbow Trout , Large Mouth Bass ,Striped Bass ,Yellow Fin Tuna, Great Barracuda
 
 
 ## Launch Web App 
