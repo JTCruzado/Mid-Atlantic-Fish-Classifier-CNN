@@ -7,7 +7,7 @@ When out fishing you can find some of the most interesting looking species, espe
 ## Be patient I take some time to load <img src="https://github.com/AlignedMind/Mid-Atlantic-Fish-Classifier/blob/main/loading.gif">
 
 -  Click here 
-👉🏼 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlignedMind/Mid-Atlantic-Fish-ClassifierHEAD?urlpath=%2Fvoila%2Frender%2FFish_Classifier.ipynb)
+👉🏼 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlignedMind/Mid-Atlantic-Fish-Classifier/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FAlignedMind%2FMid-Atlantic-Fish-Classifier%2Fblob%2Fmain%2FFish_Classifier.ipynb)
 
 # Fish eligible for identification 
 ## Fishes of the Mid - Atlantic Coast & Chesapeake Bay
