@@ -1,6 +1,6 @@
 # Find That Fish ! <img src="https://github.com/AlignedMind/offshore_fish_classifier/blob/main/Magnifying_glass.gif" width="30px">
 
-When out fishing you can find some of the most interesting looking species, Especially those with giant fins and long noses. Sometimes out at sea you want to know what species of fish you just caught. With this deep learning fish classifier you just take a picture of the fish and it will give you a solid prediction on that species.
+When out fishing you can find some of the most interesting looking species, especially those with giant fins and long noses. Sometimes out at sea you want to know what species of fish you just caught. With this deep learning fish classifier you just take a picture of the fish and it will give you a solid prediction on that species.
 
 # Technologies
 - deep learning
