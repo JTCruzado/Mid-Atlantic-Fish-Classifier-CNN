@@ -6,3 +6,7 @@ When out fishing you can find some of the most interesting looking species, Espe
 ## Important
 - currently able to classify mahi mahi , sail fish , marlin
 - will not specify sub species of fish.
+
+
+## Launch Web App
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlignedMind/offshore_fish_classifier/HEAD?urlpath=%2Fvoila%2Frender%2FFish_Classifier.ipynb)
