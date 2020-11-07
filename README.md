@@ -9,8 +9,7 @@ When out fishing you can find some of the most interesting looking species, espe
 - Binder
 - bing image downloader api
 - python
-- gradient
-
+- Voilà
 ## Important
 - currently able to classify mahi mahi , sail fish , marlin
 - will not specify sub species of fish.
