@@ -2,6 +2,7 @@
 
 When out fishing you can find some of the most interesting looking species, especially those with giant fins and long noses. Sometimes out at sea you want to know what species of fish you just caught. With this deep learning fish classifier you just take a picture of the fish and it will give you a solid prediction on that species.
 # Fish eligible for identification 
+## Fishes of the Mid - Atlantic Coast & Chesapeake Bay
 
 - Sailfish
 - Mahi Mahi
@@ -23,7 +24,7 @@ When out fishing you can find some of the most interesting looking species, espe
 
 ## Updates 
 - I will be training the model on more fishes check in for updates.
-- 11/07/20 added : - Amberjack , Wahoo, Rainbow Trout
+- 11/07/20 added : Amberjack , Wahoo, Rainbow Trout
 
 
 ## Launch Web App 
