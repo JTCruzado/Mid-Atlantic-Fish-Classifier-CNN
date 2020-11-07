@@ -29,5 +29,5 @@ When out fishing you can find some of the most interesting looking species, espe
 ## Launch Web App 
 ## Be patient I take some time to load <img src="https://github.com/AlignedMind/offshore_fish_classifier/blob/main/loading.gif">
 
--  Click here 👇🏼
+-  Click here 
 👉🏼 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlignedMind/offshore_fish_classifier/HEAD?urlpath=%2Fvoila%2Frender%2FFish_Classifier.ipynb)
