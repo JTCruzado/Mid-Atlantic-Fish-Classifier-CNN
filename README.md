@@ -23,6 +23,7 @@ When out fishing you can find some of the most interesting looking species, espe
 
 ## Updates 
 - I will be training the model on more fishes check in for updates.
+- 11/07/20 added : - Amberjack , Wahoo, Rainbow Trout
 
 
 ## Launch Web App 
