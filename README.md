@@ -6,6 +6,9 @@ When out fishing you can find some of the most interesting looking species, espe
 - Sailfish
 - Mahi Mahi
 - Marlin
+- Amberjack
+- Wahoo
+- Rainbow Trout
 
 # Technologies
 - deep learning
